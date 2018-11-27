@@ -1,0 +1,13 @@
+c:\users\liv15112735\documents\visual studio 2015\Projects\projStudentsOnCourse\projStudentsOnCourse\bin\Debug\projStudentsOnCourse.exe.config
+H:\OOP\projStudentsOnCourse\projStudentsOnCourse\bin\Debug\projStudentsOnCourse.exe.config
+E:\S2\OOP\projStudentsOnCourse\projStudentsOnCourse\bin\Debug\projStudentsOnCourse.exe.config
+E:\S2\OOP\projStudentsOnCourse\projStudentsOnCourse\obj\Debug\projStudentsOnCourse.vbprojResolveAssemblyReference.cache
+E:\S2\OOP\projStudentsOnCourse\projStudentsOnCourse\obj\Debug\projStudentsOnCourse.frmStudentApp.resources
+E:\S2\OOP\projStudentsOnCourse\projStudentsOnCourse\obj\Debug\projStudentsOnCourse.Resources.resources
+E:\S2\OOP\projStudentsOnCourse\projStudentsOnCourse\obj\Debug\projStudentsOnCourse.vbproj.GenerateResource.Cache
+E:\S2\OOP\projStudentsOnCourse\projStudentsOnCourse\obj\Debug\projStudentsOnCourse.xml
+E:\S2\OOP\projStudentsOnCourse\projStudentsOnCourse\bin\Debug\projStudentsOnCourse.exe
+E:\S2\OOP\projStudentsOnCourse\projStudentsOnCourse\bin\Debug\projStudentsOnCourse.pdb
+E:\S2\OOP\projStudentsOnCourse\projStudentsOnCourse\bin\Debug\projStudentsOnCourse.xml
+E:\S2\OOP\projStudentsOnCourse\projStudentsOnCourse\obj\Debug\projStudentsOnCourse.exe
+E:\S2\OOP\projStudentsOnCourse\projStudentsOnCourse\obj\Debug\projStudentsOnCourse.pdb
